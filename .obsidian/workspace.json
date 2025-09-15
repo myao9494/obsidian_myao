@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "f08823bfb0633a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e0b54264d7a600f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "568002d49e31144e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "98_excalidraw/howto.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "howto.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "368b1cf264423e23",
+    "type": "split",
+    "children": [
+      {
+        "id": "5552758f96e46d46",
+        "type": "tabs",
+        "dimension": 54.31976166832175,
+        "children": [
+          {
+            "id": "9f86b5de88794bc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "b18c6f518dd72902",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "b0be9d8e499da737",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dafbfc0a4b9a78f9",
+        "type": "tabs",
+        "dimension": 45.680238331678254,
+        "children": [
+          {
+            "id": "3823190cb786294e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/sudoupousei/000_work/obsidian",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: zsh"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "bb87bc89dc5e325e",
+    "type": "split",
+    "children": [
+      {
+        "id": "772bd18f62f7ea0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cba397c05f33004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/株式銘柄分析テンプレート.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "株式銘柄分析テンプレートへのバックリンク"
+            }
+          },
+          {
+            "id": "473cee30ba032c39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "a224b12d904054d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "publish:パブリッシュによる変更の公開": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-memos:Thino": false,
+      "terminal:Open terminal": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "excel:Create Excel File": false
+    }
+  },
+  "active": "568002d49e31144e",
+  "lastOpenFiles": [
+    "Templates/Daily Template.md",
+    "Templates/株式銘柄分析テンプレート.md",
+    "03_todo",
+    "04_参考資料aa/添付ファイル/Pasted Image 20250916063745_464.png",
+    "98_excalidraw/howto.excalidraw.md",
+    "99_その他/仕様.md",
+    "04_参考資料/添付ファイル/Pasted Image 20250915152218_215.png",
+    "04_参考資料aa/添付ファイル",
+    "04_参考資料aa",
+    "04_参考資料/添付ファイル/Pasted Image 20250915213145_226.png",
+    "04_参考資料/添付ファイル/Pasted Image 20250915180042_139.png",
+    "04_参考資料/添付ファイル/Pasted Image 20250915175815_486.png",
+    "04_参考資料/添付ファイル/Pasted image 20250915175800.png",
+    "04_参考資料/添付ファイル/Pasted Image 20250915175033_869.png",
+    "04_参考資料/添付ファイル/Pasted Image 20250915174336_723.png",
+    "04_参考資料/添付ファイル/Pasted Image 20250915172413_906.png",
+    "01_日次記録/2025-09-15.md",
+    "00_日次記録/2025-09-15.md",
+    "98_excalidraw",
+    "80_AIプロンプト/整理指示.md",
+    "80_AIプロンプト",
+    "無題のファイル.md",
+    "99_その他",
+    "Getting Started.md",
+    "10_株式銘柄分析/7000番代の株式の分析.md",
+    "10_株式銘柄分析/7997分析.md",
+    "10_株式銘柄分析/無題のファイル.md",
+    "work/無題のファイル 1.md",
+    "Templates/work_template.md",
+    "work/無題のファイル.md",
+    "work",
+    "Templates/10_株式銘柄分析_template.md",
+    "10_株式銘柄分析/README.md",
+    "Excalidraw",
+    "10_株式銘柄分析/株式銘柄分析テンプレート.md",
+    "10_株式銘柄分析",
+    "Templates/Thought Template.md",
+    "Templates/Learning Template.md",
+    "Templates/Project Template.md",
+    "Templates/Quick Note Template.md",
+    "2025-09-15.md"
+  ]
+}

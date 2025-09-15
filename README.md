@@ -1,2 +1,2 @@
 # obsidian_myao
-obsidianの設定
+obsidianの設定です
